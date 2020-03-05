@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Software developer, currently writing mostly in Python. I like complex problems, but simple solutions. Never opposite*.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+On a daily basis, I work with the following languages and technologies:
+- Python, Django, Flask, Tornado,
+- REST, GraphQL, JSONRPC,
+- Postgresql, RDS, RabbitMQ, ZMQ, SQS, Kinesis, AWS,
+- Docker, Ansible, Puppet, Spinnaker,
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+During my lifetime I was exposed to dozens of languages, tools or paradigms, including Perl, JavaScript, C, Java, Haskell, Elm, and many others.
+My favorite programming language? Python. For simplicity, power, clear and easy syntax.
+Big enthusiast of e-learning, web services like Coursera, Edx, and MIT open lectures.
 
+*okay, simple problems aren't that bad - bad it is, when they appear to often. Then it's the first sign, that you've stopped learning and started doing some boring, waste-of-time-like things. 
 
-[jekyll-organization]: https://github.com/jekyll
