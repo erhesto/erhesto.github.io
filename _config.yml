@@ -34,6 +34,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+minima:
+  social_links:
+    twitter: ErnestFeret
+    github: erhesto
+    stackoverflow: "3388796"
+    linkedin: ernest-feret-608680a5
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
